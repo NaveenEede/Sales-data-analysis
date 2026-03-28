@@ -15,6 +15,6 @@ Screenshot images of the dashboard
 Clean and minimal design with KPI cards
 Color-coded visuals and category-based insights
 Ideal for beginners and business reporting
----
-Feel free to fork, clone, or use this as inspiration for your own dashboard projects!
-here- mayank.freelancer7@gmail.com
+
+
+
